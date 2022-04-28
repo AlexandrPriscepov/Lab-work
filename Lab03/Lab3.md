@@ -18,4 +18,24 @@
 
    рис 3:
    
-   
+   ![изображение](https://user-images.githubusercontent.com/104249657/165738833-291aedb7-89db-4b9d-beef-7008a01f1af3.png)
+
+3. Устанавливаем pandoc (рис 4):
+
+    рис 4:
+    
+    ![изображение](https://user-images.githubusercontent.com/104249657/165738969-6e237c96-d582-4482-b8fe-a7f80e7c8e1b.png)
+
+4. Меняем формат файла с md на doc с помощью программы pandoc(рис 5):
+
+    рис 5:
+    
+    ![изображение](https://user-images.githubusercontent.com/104249657/165742529-9021f30e-2a6e-431d-bd73-bd82f4a3cdb8.png)
+5. Отправляем файлы на сервер (рис 6):
+
+    рис 6:
+    
+    ![изображение](https://user-images.githubusercontent.com/104249657/165743274-476288da-9fc9-4a29-9746-0d07495d9f12.png)
+
+### Вывод:
+    Я научился оформлять отчёты с помощью легковесного языка разметки Markdown.
