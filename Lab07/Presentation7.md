@@ -24,7 +24,7 @@
 
     рис 3:
     
-    ![изображение](https://user-images.githubusercontent.com/104249657/168066524-c1519e4e-aab4-435c-ae8d-8acae3b5d3e2.png)
+   ![изображение](https://user-images.githubusercontent.com/104249657/168066524-c1519e4e-aab4-435c-ae8d-8acae3b5d3e2.png)
 
 ## 4) Используя возможности подменю Файл , выполняем:
     – просмотр содержимого текстового файла;
@@ -34,7 +34,7 @@
     
     рис 4:
     
-    ![изображение](https://user-images.githubusercontent.com/104249657/168066756-cefa472d-8534-4f08-91b2-d5b1ed7e54cd.png)
+   ![изображение](https://user-images.githubusercontent.com/104249657/168066756-cefa472d-8534-4f08-91b2-d5b1ed7e54cd.png)
 
 ## 5) С помощью соответствующих средств подменю Команда осуществляю:
     – поиск в файловой системе файла с заданными условиями (например, файла с расширением .c или .cpp, содержащего строку main);
@@ -44,19 +44,19 @@
     
     рис 5:
     
-    ![изображение](https://user-images.githubusercontent.com/104249657/168066951-a5fe7b66-c16d-4f98-bbc0-1fcd32f25219.png)
+   ![изображение](https://user-images.githubusercontent.com/104249657/168066951-a5fe7b66-c16d-4f98-bbc0-1fcd32f25219.png)
 
 ## 6) Вызовая подменю Настройки . Осваиваю операции, определяющие структуру экрана mc (рис 6):
 
     рис 6:
     
-    ![изображение](https://user-images.githubusercontent.com/104249657/168067328-8cb407ef-3bfa-4b9f-bf76-b50e81743fd3.png)
+   ![изображение](https://user-images.githubusercontent.com/104249657/168067328-8cb407ef-3bfa-4b9f-bf76-b50e81743fd3.png)
 
 ## 7) Создаю текстовой файл text.txt. Открываю этот файл с помощью встроенного в mc редактора. Вставляю в открытый файл небольшой фрагмент текста, скопированный из любого другого файла или Интернета. (рис 7):
 
     рис 7:
     
-    ![изображение](https://user-images.githubusercontent.com/104249657/168067661-4a5d7c0f-0a11-413d-b5e4-39d6b4d63e4b.png)
+   ![изображение](https://user-images.githubusercontent.com/104249657/168067661-4a5d7c0f-0a11-413d-b5e4-39d6b4d63e4b.png)
 
 ## 8) Проделываю с текстом следующие манипуляции, используя горячие клавиши:
     -Удаляю строку текста. (Ctrl + y)
@@ -72,19 +72,19 @@
 
     рис 8:
     
-    ![изображение](https://user-images.githubusercontent.com/104249657/168068720-37bed509-7607-4b3d-8902-dcc9106da051.png)
+   ![изображение](https://user-images.githubusercontent.com/104249657/168068720-37bed509-7607-4b3d-8902-dcc9106da051.png)
     
     рис 9:
     
-    ![изображение](https://user-images.githubusercontent.com/104249657/168068774-5ffe4976-ea5d-449a-ac0f-2630d9956267.png)
+   ![изображение](https://user-images.githubusercontent.com/104249657/168068774-5ffe4976-ea5d-449a-ac0f-2630d9956267.png)
     
     рис 10:
     
-    ![изображение](https://user-images.githubusercontent.com/104249657/168068891-d897303d-4fb3-4dbf-a59b-ee78ccf13093.png)
+   ![изображение](https://user-images.githubusercontent.com/104249657/168068891-d897303d-4fb3-4dbf-a59b-ee78ccf13093.png)
     
     рис 11:
     
-    ![изображение](https://user-images.githubusercontent.com/104249657/168068964-50bf5931-628f-471a-90e2-15951dc35823.png)
+   ![изображение](https://user-images.githubusercontent.com/104249657/168068964-50bf5931-628f-471a-90e2-15951dc35823.png)
 
 ## Вывод:
     Я освоил основные возможности командной оболочки Midnight Commander. Приобрёл навыки практической работы по просмотру каталогов и файлов; манипуляций с ними.
